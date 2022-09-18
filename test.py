@@ -3,3 +3,5 @@ red
 orange
 blue black 
 white
+orange 
+purple
