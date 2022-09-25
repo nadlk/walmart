@@ -7,3 +7,4 @@ white
 orange purple
 =======
 >>>>>>> 1bb5d26dc996a3d8df2226ff4d78ed28654f541b
+hello this is the updating file in stage branch
